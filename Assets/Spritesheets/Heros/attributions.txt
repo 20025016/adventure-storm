@@ -1,2 +1,3 @@
 BKnight - thomaswp:
-Attribution to the PlatForge project and the artist of the asset: Stafford McIntyre
+url: https://opengameart.org/content/knight
+attribution: to the PlatForge project and the artist of the asset: Stafford McIntyre
